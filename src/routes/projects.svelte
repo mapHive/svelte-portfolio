@@ -53,12 +53,12 @@
       To Do App
     </div>
     <div class="text-2xl font-light text-white">
-      A straightforward to do app using with user authentication using a
-      realtime database. The user is able sign in, create a todo, update it, and
-      delete when completed.
+      A straightforward to do app with user authentication using a realtime
+      database. The user is able sign in, create a todo, update it, and delete
+      when completed.
       <br /><br />
       <div class="text-yellow-500 text-base font-medium">
-        [React.js, SASS, Firebase]
+        [React.js, Firebase]
       </div>
       <a
         href="https://react-todo-firebase-theta.vercel.app/"
@@ -82,7 +82,7 @@
     </div>
     <div class="text-2xl font-light text-white">
       Simple realtime chat app using serverless functions and consuming third
-      party APIs. Let’s users engage in a back and forth dialog.
+      party APIs. Lets users engage in a back and forth dialog.
       <br /><br />
       <!-- <div class="text-sm">
         Note: To get the desired experience, open two instances of the website
